@@ -1,3 +1,4 @@
+#Checking merge
 Feature: This is second feature file to perform multiplication
 #Background: Firebox  browser is opened
 Given Chrome browser is opened
